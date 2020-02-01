@@ -11,6 +11,14 @@
     "websockets",
     "server"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rleenders/ws-localagent-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rleenders/ws-localagent-server/issues"
+  },
+  "homepage": "https://github.com/rleenders/ws-localagent-server#readme",
   "author": "Robin Leenders",
   "license": "ISC",
   "dependencies": {
