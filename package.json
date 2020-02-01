@@ -1,5 +1,5 @@
 {
-  "name": "ws-localagent/server",
+  "name": "ws-localagent.server",
   "version": "0.0.1",
   "description": "A local agent service that can reach out to and process commands from a remote server",
   "main": "index.js",
